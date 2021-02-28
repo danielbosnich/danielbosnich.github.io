@@ -18,7 +18,6 @@ button.transparent {
     font-size: 20px;
     transition-duration: 0.15s;
 }
-
 button.transparent:hover {
     color: white;
 }
@@ -28,4 +27,24 @@ button.transparent:hover {
     justify-content: center;
     align-items: center;
     height: 40px;
+}
+
+.bottom {
+    position: absolute;
+    bottom: 5px;
+    width: 100%;
+}
+
+.social-icons {
+    text-align: center;
+}  
+.social-icons li {
+    display: inline-block;
+    list-style-type: none;
+}
+.social-icons li a {
+    border-bottom: none;
+}
+.social-icons li img {
+    margin-right: 20px;
 }
