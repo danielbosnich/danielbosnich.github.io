@@ -1,0 +1,31 @@
+.background {
+    background-image: url("https://raw.githubusercontent.com/danielbosnich/danielbosnich.github.io/main/static/moonrise.jpg");
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+button.transparent {
+    background: Transparent no-repeat;
+    text-align: center;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    overflow: hidden;
+    display: inline-block;
+    outline: none;
+    font-size: 20px;
+    transition-duration: 0.15s;
+}
+
+button.transparent:hover {
+    color: white;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px;
+}
