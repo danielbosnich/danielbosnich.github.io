@@ -7,7 +7,7 @@
 }
 
 .about-background {
-    background-image: url("https://raw.githubusercontent.com/danielbosnich/danielbosnich.github.io/main/static/flagstaff.jpg");
+    background-image: url("static/flagstaff.jpg");
     height: 100%; 
     background-position: center;
     background-repeat: no-repeat;
@@ -15,7 +15,7 @@
 }
 
 .photography-background {
-    background-image: url("https://raw.githubusercontent.com/danielbosnich/danielbosnich.github.io/main/static/chasm.jpg");
+    background-image: url("static/chasm.jpg");
     height: 100%; 
     background-position: center;
     background-repeat: no-repeat;
