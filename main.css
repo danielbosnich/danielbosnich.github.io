@@ -48,12 +48,12 @@ button.transparent:hover {
 .bottom {
     position: absolute;
     bottom: 5px;
-    width: 100%;
+    width: 98.5%;
 }
 
 .social-icons {
     text-align: center;
-}  
+}
 .social-icons li {
     display: inline-block;
     list-style-type: none;
