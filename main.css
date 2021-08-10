@@ -14,6 +14,14 @@
     background-size: cover;
 }
 
+.engineering-background {
+    background-image: url("static/senior_design.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .photography-background {
     background-image: url("static/chasm.jpg");
     height: 100%;
@@ -36,6 +44,9 @@ button.transparent {
 }
 button.transparent:hover {
     color: white;
+}
+button.gold {
+    color: goldenrod;
 }
 
 .center {
