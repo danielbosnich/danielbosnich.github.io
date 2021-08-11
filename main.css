@@ -1,33 +1,20 @@
-.home-background {
+.background {
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.home {
     background-image: url("static/moonrise.jpg");
-    height: 100%;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
 }
-
-.about-background {
+.about {
     background-image: url("static/flagstaff.jpg");
-    height: 100%;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
 }
-
-.engineering-background {
+.engineering {
     background-image: url("static/senior_design.jpg");
-    height: 100%;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
 }
-
-.photography-background {
+.photography {
     background-image: url("static/chasm.jpg");
-    height: 100%;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
 }
 
 button.transparent {
