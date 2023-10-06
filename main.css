@@ -71,7 +71,8 @@ button.gold {
 }
 
 p {
-    font-family: verdana;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    font-size: 16px;
     line-height: 1.55;
 }
 
