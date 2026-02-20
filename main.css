@@ -30,10 +30,13 @@ button.transparent {
     transition-duration: 0.15s;
 }
 button.transparent:hover {
-    color: white;
+    color: ivory;
 }
 button.gold {
     color: goldenrod;
+}
+button.language {
+    font-size: 15px;
 }
 
 .center {
@@ -41,6 +44,12 @@ button.gold {
     justify-content: center;
     align-items: center;
     height: 40px;
+}
+
+.top-right {
+    position: absolute;
+    top: 5px;
+    right: 5px;
 }
 
 .bottom {
