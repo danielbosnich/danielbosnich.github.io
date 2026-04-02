@@ -5,10 +5,7 @@
     background-size: cover;
 }
 .home {
-    background-image: url("static/moonrise.jpg");
-}
-.about {
-    background-image: url("static/flagstaff.jpg");
+    background-image: url("static/snowmass.jpg");
 }
 .engineering {
     background-image: url("static/senior_design.jpg");
